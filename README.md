@@ -11,3 +11,9 @@ This repository contains all of the notes taken by [ALEX](https://github.com/ale
     1. Item One 
     2. Item Two
     3. Item Three
+    ``` javascript
+    function whatToDoForLunch(hungry, availableTime) {
+  console.log("hungry is", hungry);
+  console.log("availableTime is", availableTime);
+}
+```
